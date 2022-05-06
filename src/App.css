@@ -1,16 +1,28 @@
-.App {
-  text-align: center;
+.photo{
+  height: 50%;
+  width: 50%;
+  border-radius: 20px;
+  border: 12px solid black;
+  margin-left: 20%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.title{
+  font-size: 50px;
+  margin-left: 40%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.my-profile{
+  height: 50%;
+  width: 50%;
+  border-radius: 20px;
+}
+
+.Video{
+  border: 12px solid black;
+  margin-top: 20px;
+  margin-left: 40%;
+
 }
 
 .App-header {
